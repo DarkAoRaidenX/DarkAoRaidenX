@@ -1,4 +1,14 @@
-### Hi there 👋
+### Yo, there 👋
+
+
+
+###⚡About Me⚡
+I struggle everyday with various mental and physical impairments that leave me super drained, tired, and the will to do nothing. Because of those struggles, I missed out on a lot of stuff growing up and even now like games and socialness.
+
+I try to stream on Twitch(Whenever Me or My Internet feels like it)
+[Twitch](https://www.twitch.tv/darkaoraidenx)
+
+
 
 <!--
 **DarkAoRaidenX/DarkAoRaidenX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
