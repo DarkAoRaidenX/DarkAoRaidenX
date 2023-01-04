@@ -7,7 +7,18 @@
 
 I try to stream on [Twitch](https://www.twitch.tv/darkaoraidenx)(Whenever Me or My Internet feels like it)
 
+<details>
+  <summary>
+    <h3>Favorite Games</h3>
+  </summary>
+  
++     
++ 
++ 
 
+*Note: Due to the The Fun Pimps changing how mods are loaded, these installation instructions will change soon*       
+
+</details>
 
 
 <!--
