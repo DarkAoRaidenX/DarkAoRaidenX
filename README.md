@@ -7,6 +7,8 @@
 
 I try to stream on [Twitch](https://www.twitch.tv/darkaoraidenx)(Whenever Me or My Internet feels like it). Main games I would like to play is Co-op games. Don't care for competive/pvp type games.
 
+My Discord Username is: DarkAoRaidenX#6672, feel free to ask me questions or whatever, it's not like I have friends.
+
 <details>
   <summary>
     <h3>Favorite Games</h3>
@@ -22,9 +24,7 @@ I try to stream on [Twitch](https://www.twitch.tv/darkaoraidenx)(Whenever Me or 
 + HYPERCHARGE: Unboxed
 + PlanetSide 2
 + Risk of Rain 2
-  
- 
-*Note: Due to the The Fun Pimps changing how mods are loaded, these installation instructions will change soon*       
+    
 
 </details>
 
